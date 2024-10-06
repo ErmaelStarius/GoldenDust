@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CVuFyX3Kiw8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ErmaelStarius\\Desktop\\[Team] GoldenDust\\GoldenDust\\GoldenDust\\GoldenDust.iOS\\GoldenDust.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ErmaelStarius\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ErmaelStarius\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\ErmaelStarius\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
